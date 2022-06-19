@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.exe
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.deps.json
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.runtimeconfig.json
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.dll
+C:\Users\Acer\Desktop\dsa_test\dsa_test\bin\Debug\net5.0\dsa_test.pdb
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.AssemblyInfo.cs
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.dll
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\refint\dsa_test.dll
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.pdb
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\dsa_test.genruntimeconfig.cache
+C:\Users\Acer\Desktop\dsa_test\dsa_test\obj\Debug\net5.0\ref\dsa_test.dll
